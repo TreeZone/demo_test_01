@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="52faa160-f8a0-4574-b9ba-86f7804f1803" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="F:/apache-maven-3.5.3" />
+        <option name="userSettingsFile" value="F:\apache-maven-3.5.3\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1dCzRY7sLqpoHJe4MZ7blBtQrMg" />
+  <component name="ProjectViewState">
+    <option name="abbreviatePackageNames" value="true" />
+    <option name="flattenModules" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="JavaScriptWeakerCompletionTypeGuess" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Artifacts" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="com.myproject" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.SocketClient">
+    <configuration name="SocketClient" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myproject.learn.javaio.SocketClient" />
+      <module name="javaio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myproject.learn.javaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SocketServer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.myproject.learn.javaio.SocketServer" />
+      <module name="javaio" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.myproject.learn.javaio.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="JavaioApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="javaio" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.myproject.JavaioApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.SocketServer" />
+        <item itemvalue="Application.SocketClient" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Cui\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="52faa160-f8a0-4574-b9ba-86f7804f1803" name="Default Changelist" comment="" />
+      <created>1591943854501</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1591943854501</updated>
+      <workItem from="1591943856684" duration="1932000" />
+      <workItem from="1591948915585" duration="70000" />
+      <workItem from="1591949033470" duration="6845000" />
+      <workItem from="1592186657436" duration="2475000" />
+      <workItem from="1592191756546" duration="8611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="732" y="375" key="#Project_Structure" timestamp="1591943870788">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="732" y="375" key="#Project_Structure/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591943870787" />
+    <state x="1511" y="570" key="#com.intellij.ide.util.MemberChooser" timestamp="1591954421517">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1511" y="570" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591954421517" />
+    <state x="1362" y="696" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes" timestamp="1591949321200">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1362" y="696" width="431" height="273" key="#com.intellij.refactoring.move.moveClassesOrPackages.MoveClassesOrPackagesDialog.classes/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591949321200" />
+    <state width="476" height="466" key="DebuggerActiveHint" timestamp="1592202702411">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="476" height="466" key="DebuggerActiveHint/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592202702411" />
+    <state x="693" y="644" key="FileChooserDialogImpl" timestamp="1591949137443">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="693" y="644" key="FileChooserDialogImpl/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591949137443" />
+    <state width="1476" height="307" key="GridCell.Tab.0.bottom" timestamp="1592205107815">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.0.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107815" />
+    <state width="1476" height="307" key="GridCell.Tab.0.center" timestamp="1592205107814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.0.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107814" />
+    <state width="1476" height="307" key="GridCell.Tab.0.left" timestamp="1592205107814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.0.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107814" />
+    <state width="1476" height="307" key="GridCell.Tab.0.right" timestamp="1592205107814">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.0.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107814" />
+    <state width="1476" height="307" key="GridCell.Tab.1.bottom" timestamp="1592205107688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.1.bottom/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107688" />
+    <state width="1476" height="307" key="GridCell.Tab.1.center" timestamp="1592205107688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.1.center/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107688" />
+    <state width="1476" height="307" key="GridCell.Tab.1.left" timestamp="1592205107688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.1.left/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107688" />
+    <state width="1476" height="307" key="GridCell.Tab.1.right" timestamp="1592205107688">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state width="1476" height="307" key="GridCell.Tab.1.right/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1592205107688" />
+    <state x="1128" y="482" key="Maven.ArtifactSearchDialog" timestamp="1591949699214">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1128" y="482" key="Maven.ArtifactSearchDialog/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591949699214" />
+    <state x="989" y="526" key="SettingsEditor" timestamp="1591949144453">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="989" y="526" key="SettingsEditor/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591949144453" />
+    <state x="574" y="511" key="new project wizard" timestamp="1591944022711">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="574" y="511" key="new project wizard/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591944022711" />
+    <state x="1190" y="611" width="672" height="678" key="search.everywhere.popup" timestamp="1591950277665">
+      <screen x="0" y="0" width="2560" height="1400" />
+    </state>
+    <state x="1190" y="611" width="672" height="678" key="search.everywhere.popup/-1920.0.1920.1040/0.0.2560.1400@0.0.2560.1400" timestamp="1591950277665" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/io/BufferedInputStream.java</url>
+          <line>158</line>
+          <option name="timeStamp" value="33" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
